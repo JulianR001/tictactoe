@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=negative
+comment1.params=lst
+comment1.target=java.util.ArrayList\ apcsaListAddNegations(java.util.ArrayList)
+comment2.params=lst\ x
+comment2.target=void\ inverse(java.util.ArrayList,\ int)
+numComments=3
